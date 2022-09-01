@@ -1,0 +1,1 @@
+scripting some shell permissions
